@@ -1,0 +1,9 @@
+.about-section h2{
+    font-size: 40px !important;
+    font-weight: 400;
+}
+  
+  .about-section p {
+    font-size: 16px;
+    line-height: 1.8;
+  }

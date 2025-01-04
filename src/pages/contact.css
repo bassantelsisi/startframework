@@ -1,0 +1,23 @@
+/* Contact.css */
+.contact-section {
+    background-color: white;
+  }
+  
+  
+  .form-control {
+    border-radius: 0;
+  }
+  
+  .form-control:focus {
+    box-shadow: none;
+    border-color: #1ABC9C;
+  }
+  
+  .form-control::placeholder {
+    color: #2C3E50;
+    opacity: 1;
+  }
+  
+  .btn:hover {
+    background-color: #159a80 !important;
+  }
